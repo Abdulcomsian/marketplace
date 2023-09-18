@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon-Verification-Action</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icon-Verification-Action" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M39,14.931508 C37.6694937,24.1658014 35.827062,30.6825178 33.4727047,34.4816572 C32.4098566,36.196736 28.263045,40.5903226 24.0933821,40.6030308 C19.8614662,40.6159287 15.6060117,36.2223421 14.5272953,34.4816572 C12.172938,30.6825178 10.3305063,24.1658014 9,14.931508 C10.3053226,13.5490541 22.6817678,8 24.2062685,8 C25.7307692,8 37.7206075,13.5765164 39,14.931508 Z" id="Combined-Shape" stroke="#0041FF" stroke-width="2"></path>
+        <polyline id="Path-34" stroke="#0041FF" stroke-width="2" points="18 23.3684211 21.9473684 29 32 20"></polyline>
+    </g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon-Product-Active</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icon-Product-Active" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Group-3" transform="translate(9.000000, 9.000000)" stroke="#0041FF" stroke-width="2">
+            <g id="Group-2">
+                <g id="Group">
+                    <polygon id="Rectangle-15" points="0 0.0566953911 30 0 30 30 0 29.9433046"></polygon>
+                </g>
+            </g>
+            <path d="M10.8223544,5.21428571 L18.8223544,5.21428571" id="Path-29"></path>
+        </g>
+        <path d="M28,31 L28,35" id="Path-30-Copy" stroke="#0041FF" stroke-width="2"></path>
+        <path d="M31.25,31 L31.25,35" id="Path-30-Copy-2" stroke="#0041FF" stroke-width="2"></path>
+        <path d="M34.25,31 L34.25,35" id="Path-30-Copy-3" stroke="#0041FF" stroke-width="2"></path>
+        <path d="M24,31 L24,35" id="Path-30" stroke="#0041FF" stroke-width="2"></path>
+    </g>
+</svg>

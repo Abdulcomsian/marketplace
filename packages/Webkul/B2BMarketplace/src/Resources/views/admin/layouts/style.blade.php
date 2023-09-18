@@ -1,0 +1,1 @@
+<link rel="stylesheet" href="{{ asset('themes/b2b/assets/css/b2b-marketplace-admin.css') }}">

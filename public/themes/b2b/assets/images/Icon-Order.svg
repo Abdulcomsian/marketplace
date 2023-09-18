@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon-Order</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icon-Order" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-3" transform="translate(9.000000, 7.000000)">
+            <g id="Group-2" stroke="#979797" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                <g id="Group">
+                    <polygon id="Rectangle-15" points="0 0.0621153846 30 0 30 32.8679545 0 32.8058392"></polygon>
+                </g>
+            </g>
+            <path d="M6.1776456,7.28571429 L23.8636364,7.28571429" id="Path-29" stroke="#979797" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M6.1776456,13.3571429 L23.8636364,13.3571429" id="Path-29-Copy" stroke="#979797" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M6.81818182,19.2261905 L13.6363636,19.2261905" id="Path-29-Copy-2" stroke="#979797" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <circle id="Oval-14" fill="#979797" fill-rule="nonzero" cx="24.8181818" cy="27.5" r="2"></circle>
+        </g>
+    </g>
+</svg>

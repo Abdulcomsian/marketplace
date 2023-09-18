@@ -1,0 +1,28 @@
+@extends('b2b_marketplace::admin.layouts.content')
+
+@section('page_title')
+    {{ __('b2b_marketplace::app.admin.suppliers.flag.title') }}
+@stop
+
+@section('content')
+
+
+    <div class="content">
+        <div class="page-header">
+            <div class="page-title">
+                <h1>{{ __('b2b_marketplace::app.admin.suppliers.flag.title') }}</h1>
+            </div>
+
+            <div class="page-action">
+                <a href="{{route('b2b_marketplace.admin.supplier-flag.reason.create')}}" class="btn btn-lg btn-primary" > {{ __('b2b_marketplace::app.admin.suppliers.flag.add-btn-title') }}</a>
+            </div>
+        </div>
+
+        <div class="page-content">
+
+            {!! app('Webkul\B2BMarketplace\DataGrids\Admin\SupplierFlagReasonDataGrid')->render() !!}
+
+        </div>
+    </div>
+
+@stop

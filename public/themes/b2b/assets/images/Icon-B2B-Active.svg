@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon-B2B-Active</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icon-B2B-Active" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Group" transform="translate(2.000000, 8.000000)" fill="#FFFFFF" stroke="#0041FF" stroke-width="2">
+            <g id="Group-7" transform="translate(5.000000, 1.000000)">
+                <rect id="Rectangle-22" transform="translate(20.688889, 17.500000) rotate(-315.000000) translate(-20.688889, -17.500000) " x="10.9777778" y="3.33333333" width="19.4222222" height="28.3333333" rx="9.58333333"></rect>
+                <path d="M21.6251667,11.9544117 C22.5430309,12.8601988 22.9325083,13.0981245 24.7682367,14.9096985 C28.5606615,18.652223 28.5606615,24.7200541 24.7682367,28.4625785 C20.9758119,32.205103 14.8270764,32.205103 11.0346516,28.4625785 L3.48901474,21.1626533 C-0.303410047,17.4201288 -0.303410047,11.3522978 3.48901474,7.60977332 C7.13456024,4.01219553 12.9574327,3.87286259 16.7716324,7.19177452 C16.9253068,7.32549372 17.0757205,7.46482665 17.2225998,7.60977332" id="Rectangle-22"></path>
+                <path d="M26.1555703,10.9243096 L21.9555556,11.4569447 L15.9194322,16.9872496 C14.5957821,18.1999798 12.4497211,18.1999798 11.126071,16.9872496 C9.80242079,15.7745194 9.80242079,13.8082953 11.126071,12.5955651 L17.6474737,6.956823" id="Rectangle-22"></path>
+            </g>
+            <rect id="Rectangle-23" transform="translate(35.454951, 8.636932) rotate(-315.000000) translate(-35.454951, -8.636932) " x="26.4549513" y="5.67982502" width="18" height="5.91421356" rx="2"></rect>
+            <rect id="Rectangle-23" transform="translate(8.454951, 8.454951) scale(-1, 1) rotate(-315.000000) translate(-8.454951, -8.454951) " x="-0.545048712" y="5.49784451" width="18" height="5.91421356" rx="2"></rect>
+        </g>
+    </g>
+</svg>

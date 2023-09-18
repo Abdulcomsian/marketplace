@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon-lead-Active</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icon-lead-Active" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <polygon id="Combined-Shape" stroke="#0041FF" stroke-width="2" fill="#FFFFFF" points="26.4 32.2114783 26.4 39.0647742 22.4 41.9033043 22.4 32.2114783 12 21.8114783 12 16.2114783 36 16.2114783 36 21.8114783"></polygon>
+        <circle id="Oval-17" stroke="#0041FF" stroke-width="2" fill="#FFFFFF" cx="18.5" cy="9.5" r="2.5"></circle>
+        <circle id="Oval-17" stroke="#0041FF" stroke-width="2" fill="#FFFFFF" cx="31.5" cy="8.5" r="3.5"></circle>
+        <circle id="Oval-17" stroke="#0041FF" stroke-width="2" fill="#FFFFFF" cx="25" cy="14" r="2"></circle>
+    </g>
+</svg>

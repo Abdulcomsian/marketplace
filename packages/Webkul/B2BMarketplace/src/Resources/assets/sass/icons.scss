@@ -1,0 +1,262 @@
+.social-icon {
+    width: 36px;
+    height: 36px;
+}
+
+.mp-facebook-icon {
+    background-image: url("../images/mp-facebook.svg");
+}
+
+.mp-twitter-icon {
+    background-image: url("../images/mp-twiter.svg");
+}
+
+.mp-instagram-icon {
+    background-image: url("../images/mp-instagram.svg");
+}
+
+.mp-pinterest-icon {
+    background-image: url("../images/mp-pinterest.svg");
+}
+
+.mp-skype-icon {
+    background-image: url("../images/mp-skype.svg");
+}
+
+.mp-linked-in-icon {
+    background-image: url("../images/mp-linked-in.svg");
+}
+
+.mp-youtube-icon {
+    background-image: url("../images/mp-youtube.svg");
+}
+
+.star-icon {
+    background-image: url("../images/Star-Icon.svg");
+    width: 24px;
+    height: 24px;
+}
+
+.star-blue-icon {
+    width: 17px;
+    height: 17px;
+    background-image: url("../images/Icon-star.svg");
+}
+
+.message-icon {
+    width: 48px;
+    height: 48px;
+    display: inline-block;
+    background-size: cover;
+    background-image: url("../images/Icon-Message.svg");
+}
+
+.buying-leads-icon {
+    width: 48px;
+    height: 48px;
+    display: inline-block;
+    background-size: cover;
+    background-image: url("../images/Icon-Buying-Leads.svg");
+}
+
+.order-icon {
+    width: 48px;
+    height: 48px;
+    display: inline-block;
+    background-size: cover;
+    background-image: url("../images/Icon-Order.svg");
+}
+
+.customer-icon {
+    width: 48px;
+    height: 48px;
+    display: inline-block;
+    background-size: cover;
+    background-image: url("../images/Icon-Customers.svg");
+}
+
+.trash-icon {
+    background-image: url("../images/Icon-Trash.svg");
+    width: 24px;
+    height: 24px;
+    cursor: pointer;
+}
+
+.product-icon {
+    width: 48px;
+    height: 48px;
+    display: inline-block;
+    background-size: cover;
+    background-image: url("../images/Icon-Product.svg");
+}
+
+.review-icon {
+    width: 48px;
+    height: 48px;
+    display: inline-block;
+    background-size: cover;
+    background-image: url("../images/Icon-Reviwe.svg");
+}
+
+.rfq-icon {
+    width: 48px;
+    height: 48px;
+    display: inline-block;
+    background-size: cover;
+    background-image: url("../images/Icon-RFQ.svg");
+}
+
+.transection-icon {
+    width: 48px;
+    height: 48px;
+    display: inline-block;
+    background-size: cover;
+    background-image: url("../images/Icon-Transection.svg");
+}
+
+.verification-icon {
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    background-size: cover;
+    background-image: url("../images/Icon-Verification.svg");
+}
+
+.marketplace-icon {
+    width: 48px;
+    height: 48px;
+    display: inline-block;
+    background-size: cover;
+    background-image: url("../images/Icon-Marketplace.svg");
+}
+
+.b2bcustomer-icon {
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    background-size: cover;
+    background-image: url("../images/Icon-Customers.svg");
+}
+
+.b2b-icon {
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    background-size: cover;
+    background-image: url("../images/Icon-B2B.svg");
+}
+
+.lead-icon {
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    background-size: cover;
+    background-image: url("../images/Icon-lead.svg");
+}
+
+.active {
+
+    .lead-icon {
+        background-image: url("../images/Icon-lead-Active.svg");
+    }
+
+    &.leas-icon {
+        background-image: url("../images/Icon-lead-Active.svg");
+    }
+
+    .b2b-icon {
+        background-image: url("../images/Icon-B2B-Active.svg");
+    }
+
+    &.b2b-icon {
+        background-image: url("../images/Icon-B2B-Active.svg");
+    }
+
+    .buying-leads-icon {
+        background-image: url("../images/Icon-Buying-Leads-Action.svg");
+    }
+
+    &.buying-leads-icon {
+        background-image: url("../images/Icon-Buying-Leads-Action.svg");
+    }
+
+    .message-icon {
+        background-image: url("../images/Icon-Message-Active.svg");
+    }
+
+    &.message-icon {
+        background-image: url("../images/Icon-Message-Active.svg");
+    }
+
+    .order-icon {
+        background-image: url("../images/Icon-Order-Active.svg");
+    }
+
+    &.order-icon {
+        background-image: url("../images/Icon-Order-Active.svg");
+    }
+
+    .customer-icon {
+        background-image: url("../images/Icon-Customers-Active.svg");
+    }
+
+    &.customer-icon {
+        background-image: url("../images/Icon-Customers-Active.svg");
+    }
+
+    .product-icon {
+        background-image: url("../images/Icon-Product-Active.svg");
+    }
+
+    &.product-icon {
+        background-image: url("../images/Icon-Product-Active.svg");
+    }
+
+    .review-icon {
+        background-image: url("../images/Icon-Reviwe-Action.svg");
+    }
+
+    &.review-icon {
+        background-image: url("../images/Icon-Reviwe-Action.svg");
+    }
+
+    .rfq-icon {
+        background-image: url("../images/Icon-RFQ-Action.svg");
+    }
+
+    &.rfq-icon {
+        background-image: url("../images/Icon-RFQ-Action.svg");
+    }
+
+    .transection-icon {
+        background-image: url("../images/Icon-Transection-Active.svg");
+    }
+
+    &.transection-icon {
+        background-image: url("../images/Icon-Transection-Active.svg");
+    }
+
+    .verification-icon {
+        background-image: url("../images/Icon-Verification-Action.svg");
+    }
+
+    &.verification-icon {
+        background-image: url("../images/Icon-Verification-Action.svg");
+    }
+
+    .marketplace-icon {
+        background-image: url("../images/Icon-Marketplace-Active.svg");
+    }
+
+    &.marketplace-icon {
+        background-image: url("../images/Icon-Marketplace-Active.svg");
+    }
+
+    .b2bcustomer-icon {
+        background-image: url("../images/Icon-Customers-Active.svg");
+    }
+
+    &.b2bcustomer-icon {
+        background-image: url("../images/Icon-Customers-Active.svg");
+    }
+}
